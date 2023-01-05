@@ -1,0 +1,15 @@
+W:\c#\Robot project\bin\Debug\net7.0\c#.exe
+W:\c#\Robot project\bin\Debug\net7.0\c#.deps.json
+W:\c#\Robot project\bin\Debug\net7.0\c#.runtimeconfig.json
+W:\c#\Robot project\bin\Debug\net7.0\c#.dll
+W:\c#\Robot project\bin\Debug\net7.0\c#.pdb
+W:\c#\Robot project\obj\Debug\net7.0\c#.csproj.AssemblyReference.cache
+W:\c#\Robot project\obj\Debug\net7.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+W:\c#\Robot project\obj\Debug\net7.0\c#.AssemblyInfoInputs.cache
+W:\c#\Robot project\obj\Debug\net7.0\c#.AssemblyInfo.cs
+W:\c#\Robot project\obj\Debug\net7.0\c#.csproj.CoreCompileInputs.cache
+W:\c#\Robot project\obj\Debug\net7.0\c#.dll
+W:\c#\Robot project\obj\Debug\net7.0\refint\c#.dll
+W:\c#\Robot project\obj\Debug\net7.0\c#.pdb
+W:\c#\Robot project\obj\Debug\net7.0\c#.genruntimeconfig.cache
+W:\c#\Robot project\obj\Debug\net7.0\ref\c#.dll
