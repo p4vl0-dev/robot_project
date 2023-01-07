@@ -1,4 +1,16 @@
-/obj/
-/bin/
-/.vscode/
+# gitignore file
+
 .gitignore
+
+bin/Debug/net7.0/Robot project.dll
+bin/Debug/net7.0/Robot project.pdb
+
+obj/project.nuget.cache
+
+obj/Robot project.csproj.nuget.dgspec.json
+
+obj/Debug/net7.0/Robot project.assets.cache
+obj/Debug/net7.0/Robot project.dll
+obj/Debug/net7.0/Robot project.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net7.0/Robot project.genruntimeconfig.cache
+obj/Debug/net7.0/Robot project.pdb
