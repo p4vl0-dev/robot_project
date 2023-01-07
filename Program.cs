@@ -21,7 +21,6 @@ namespace program_namespace{
          killer_bot.Say_Hi();
          System.Console.WriteLine(killer_bot.Name);
 
-         
       }
 
    }
