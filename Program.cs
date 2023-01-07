@@ -14,10 +14,13 @@ namespace program_namespace{
          Bot bot2 = new Bot("Alex", 2300);
 
          bot2.Print_values();
-         
          bot2.Jump();
-
          bot2.Say_Hi();
+
+         Killer killer_bot = new Killer("Ted", 120, new byte[] {0, 0 , 0}, 200, Type.Enemy);
+         killer_bot.Say_Hi();
+         System.Console.WriteLine(killer_bot.Name);
+
          
       }
 
