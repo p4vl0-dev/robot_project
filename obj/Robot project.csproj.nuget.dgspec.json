@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "w:\\c#\\Robot project\\Robot project.csproj": {}
+    "W:\\c#\\robot_project\\Robot project.csproj": {}
   },
   "projects": {
-    "w:\\c#\\Robot project\\Robot project.csproj": {
+    "W:\\c#\\robot_project\\Robot project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "w:\\c#\\Robot project\\Robot project.csproj",
+        "projectUniqueName": "W:\\c#\\robot_project\\Robot project.csproj",
         "projectName": "Robot project",
-        "projectPath": "w:\\c#\\Robot project\\Robot project.csproj",
+        "projectPath": "W:\\c#\\robot_project\\Robot project.csproj",
         "packagesPath": "C:\\Users\\p4vl0\\.nuget\\packages\\",
-        "outputPath": "w:\\c#\\Robot project\\obj\\",
+        "outputPath": "W:\\c#\\robot_project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\p4vl0\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
