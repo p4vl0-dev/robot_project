@@ -2,6 +2,7 @@
 
 .gitignore
 
+# Files from folders
 bin/Debug/net7.0/Robot project.dll
 bin/Debug/net7.0/Robot project.pdb
 
