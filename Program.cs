@@ -3,7 +3,7 @@ using System.Collections.Generic; //Here is List
 
 namespace program_namespace{
 
-   class main_class{
+   class main_class : Bot{
 
       public static void Main(){
 
@@ -20,6 +20,8 @@ namespace program_namespace{
          Killer killer_bot = new Killer("Ted", 120, new byte[] {0, 0 , 0}, 200, Type.Enemy);
          killer_bot.Say_Hi();
          System.Console.WriteLine(killer_bot.Name);
+
+         Say_Bye(); // Static void from Bot class
 
       }
 

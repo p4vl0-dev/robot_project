@@ -57,7 +57,7 @@ namespace program_namespace{
       }
 
       public static void Say_Bye(){
-         System.Console.WriteLine("GoodBye!");
+         System.Console.WriteLine("Goodbye!");
       }
 
    }
