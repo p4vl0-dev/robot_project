@@ -56,8 +56,8 @@ namespace program_namespace{
          System.Console.WriteLine("Bot color: " + bot.color);
       }
 
-      public static void Say3(){
-         System.Console.WriteLine("3");
+      public static void Say_Bye(){
+         System.Console.WriteLine("Goodbye!");
       }
 
    }
