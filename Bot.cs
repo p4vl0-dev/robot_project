@@ -56,6 +56,10 @@ namespace program_namespace{
          System.Console.WriteLine("Bot color: " + bot.color);
       }
 
+      public static void Say3(){
+         System.Console.WriteLine("3");
+      }
+
    }
 
 }
